@@ -4,7 +4,15 @@ Pedagoga em transição de carreira para a área de tecnologia. Tenho formação
 
 💻 Aluna no programa ONE (Oracle Next Education), parceria de Alura + Oracle
 
+</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/keila-moloni-stefani/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
 ---
+
 ### Linguagens e Tecnologias
 
 <img 
@@ -62,4 +70,12 @@ Pedagoga em transição de carreira para a área de tecnologia. Tenho formação
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Moloni-Stefani&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keila-Moloni-Stefani/Keila-Moloni-Stefani/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keila-Moloni-Stefani/Keila-Moloni-Stefani/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Keila-Moloni-Stefani/Keila-Moloni-Stefani/output/pacman-contribution-graph.svg">
+</picture>
+
+###
