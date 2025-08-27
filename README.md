@@ -14,6 +14,15 @@ Pedagoga em transição de carreira para a área de tecnologia. Tenho formação
 ---
 
 ### Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="UiPath"
+    title="UiPath" 
+    width="60px" 
+    style="padding-right: 50px;" 
+    src="https://1000logos.net/wp-content/uploads/2024/08/UiPath-Logo.png"
+/>
+
 
 <img 
     align="left" 
