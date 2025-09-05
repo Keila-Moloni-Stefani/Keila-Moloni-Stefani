@@ -6,7 +6,7 @@ Pedagoga em transição de carreira para a área de tecnologia. Tenho formação
 
 </p>
 <div align="left">
-  <a href="mailto: autorakmstephen@gmail.com" class="mail"/>
+  <a href="mailto:autorakmstephen@gmail.com" class="mail"/>
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   <a href="https://www.linkedin.com/in/keila-moloni-stefani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
