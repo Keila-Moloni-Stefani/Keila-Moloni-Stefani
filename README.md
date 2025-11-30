@@ -2,15 +2,18 @@
 
 Pedagoga em transição de carreira para a área de tecnologia. Tenho formação técnica em lógica de programação, fundamentos de automação, automação de processos (RPA) e desenvolvimento com UiPath, construção de projetos de ReFramework com filas no Orchestrator.
 
-💻 Aluna no programa ONE (Oracle Next Education), parceria de Alura + Oracle
+💻 DIO Campus Expert | Turma 14
+</p>
+💻 Aluna de Back-end no programa ONE (Oracle Next Education), parceria de Alura + Oracle
 
 </p>
 <div align="left">
   <a href="https://autorakmstephen@gmail.com" class="mail"/>
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  <a href="https://www.linkedin.com/in/keila-moloni-stefani/" target="_blank">
+  <a href="https://www.linkedin.com/in/keila-moloni-stefani/" target="_blank"/>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
+  <a href="https://web.dio.me/users/autorakmstephen?tab=achievements" />
+    <img src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" height="29" alt="DIO logo"/>
 </div>
 
 ---
