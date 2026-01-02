@@ -12,8 +12,6 @@ Pedagoga em transição de carreira para a área de tecnologia. Tenho formação
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   <a href="https://www.linkedin.com/in/keila-moloni-stefani/" target="_blank"/>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  <a href="https://web.dio.me/users/autorakmstephen?tab=achievements" />
-    <img src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" height="29" alt="DIO logo"/>
 </div>
 
 ---
@@ -51,16 +49,7 @@ Pedagoga em transição de carreira para a área de tecnologia. Tenho formação
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img
-     align="left" 
-    alt="VisualStudio" 
-    title="VisualStudio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"    
 />
           
 <br/>
