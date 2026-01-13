@@ -1,8 +1,9 @@
 # 👩🏻‍💻 Keila Moloni Stefani 
 
-Pedagoga em transição de carreira para a área de tecnologia. Tenho formação técnica em lógica de programação, fundamentos de automação, automação de processos (RPA) e desenvolvimento com UiPath, construção de projetos de ReFramework com filas no Orchestrator.
+Sou Desenvolvedora Back-End em formação, com foco em Java, SQL e automação de processos, buscando oportunidade de estágio em TI ou primeira oportunidade na área de tecnologia, para evoluir tecnicamente e contribuir com equipes de desenvolvimento em ambientes colaborativos e remotos.
+Atualmente curso especialização em Back-End com Java pelo programa Oracle Next Education (ONE) | Alura, além de participar de bootcamps e formações práticas voltadas a lógica de programação, desenvolvimento web, automação (RPA) e fundamentos de Inteligência Artificial.
 
-💻 DIO Campus Expert | Turma 14
+💻 Embaixadora DIO Campus Expert | Turma 14 - 2025
 </p>
 💻 Aluna de Back-end no programa ONE (Oracle Next Education), parceria de Alura + Oracle
 
@@ -25,8 +26,7 @@ Pedagoga em transição de carreira para a área de tecnologia. Tenho formação
     style="padding-right: 50px;" 
     src="https://1000logos.net/wp-content/uploads/2024/08/UiPath-Logo.png"
 />
-
-
+          
 <img 
     align="left" 
     alt="HTML"
