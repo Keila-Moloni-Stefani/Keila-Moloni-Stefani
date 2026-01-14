@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Keila Moloni Stefani 
 
-Sou Desenvolvedora Back-End em formação, com foco em Java, SQL e automação de processos, buscando oportunidade de estágio em TI ou primeira oportunidade na área de tecnologia, para evoluir tecnicamente e contribuir com equipes de desenvolvimento em ambientes colaborativos e remotos.
-Atualmente curso especialização em Back-End com Java pelo programa Oracle Next Education (ONE) | Alura, além de participar de bootcamps e formações práticas voltadas a lógica de programação, desenvolvimento web, automação (RPA) e fundamentos de Inteligência Artificial.
+Sou Desenvolvedora Back-End em formação, com foco em Java, SQL e automação de processos. Atualmente curso especialização em Back-End com Java pelo programa Oracle Next Education (ONE) | Alura, além de participar de bootcamps e formações práticas voltadas a lógica de programação, desenvolvimento web, automação (RPA) e fundamentos de Inteligência Artificial.
 
 💻 Embaixadora DIO Campus Expert | Turma 14 - 2025
 <br/>
@@ -9,7 +8,7 @@ Atualmente curso especialização em Back-End com Java pelo programa Oracle Next
 
 <div> 
   <a href = "mailto:autorakmstephen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "www.linkedin.com/in/keila-moloni-stefani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= "www.linkedin.com/in/keila-moloni-stefani"> <target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ----
