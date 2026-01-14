@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Keila Moloni Stefani 
+# Keila Moloni Stefani 
 
 Sou Desenvolvedora Back-End em formação, com foco em Java, SQL e automação de processos. Atualmente curso especialização em Back-End com Java pelo programa Oracle Next Education (ONE) | Alura, além de participar de bootcamps e formações práticas voltadas a lógica de programação, desenvolvimento web, automação (RPA) e fundamentos de Inteligência Artificial.
 
@@ -12,9 +12,7 @@ Sou Desenvolvedora Back-End em formação, com foco em Java, SQL e automação d
 </div>
 
 ----
-
 ### Linguagens e Tecnologias
-
 <div style="display: inline_block"><br>
   <img align="center" alt="UiPath" height="50" width="60" src="https://1000logos.net/wp-content/uploads/2024/08/UiPath-Logo.png">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -25,7 +23,6 @@ Sou Desenvolvedora Back-End em formação, com foco em Java, SQL e automação d
 <br/>
 
 ### Estatísticas
-
 <p>
   <img 
     align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
