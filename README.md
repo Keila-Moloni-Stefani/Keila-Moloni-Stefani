@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Keila Moloni Stefani!</h1>
 <p align="center">
-  <em>Desenvolvedora Back-End | Java • SQL • Automação de Processos</em>
+  <em>Desenvolvedora Full Stack | Automação de Processos</em>
 </p>
 <div align="center">
   <a href="mailto:autorakmstephen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,7 +9,10 @@
 </div>
 <br/>
 
-Sou Desenvolvedora Back-End em formação, com foco em Java, SQL e automação de processos. Atualmente curso especialização em Back-End com Java pelo programa Oracle Next Education (ONE) | Alura, além de participar de bootcamps e formações práticas voltadas a lógica de programação, desenvolvimento web, automação (RPA) e fundamentos de Inteligência Artificial.
+Sou Desenvolvedora de Software com atuação em desenvolvimento web, automação de processos e integração de sistemas. Minha trajetória começou com foco em Back-End utilizando Java e Spring Boot, e atualmente também participo de projetos envolvendo aplicações web, landing pages, automações, APIs e integração 
+entre plataformas.
+Tenho experiência na construção de soluções voltadas para otimização de processos, automação de fluxos operacionais e desenvolvimento de aplicações que conectam diferentes sistemas, CRMs e serviços externos.
+Atualmente busco consolidar minha carreira como Desenvolvedora Full Stack, unindo desenvolvimento de software, banco de dados, automação e integrações para criar soluções escaláveis e eficientes voltadas à produtividade e transformação digital.
 
 👩‍💻 Voluntária na WoMakersCode 
 <br/>
